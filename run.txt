@@ -1,0 +1,5 @@
+python -m venv venv
+venv\Scripts\activate.ps1
+
+pip install matplotlib
+pip install opencv-python
